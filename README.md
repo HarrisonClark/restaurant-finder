@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses ReactMap-GL and Google Places API for a simple restaurant finder.
+The app displays a map and a search box and first asks the user for a location to search in and then a restaurant to search for.
 
 ## Available Scripts
 
